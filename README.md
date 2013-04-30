@@ -1,4 +1,5 @@
 #Apple USB Ethernet Adapter Windows Driver Patcher
+Stop using other's outdated binary and start to make you own with latest chip driver!
 
 ##Usage
 
